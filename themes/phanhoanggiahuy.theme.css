@@ -1,0 +1,23 @@
+/**
+ * @name HydroX Theme
+ * @author HieuZ#2007
+ * @version .hieucuti
+ * @description theme dc lam boi hieuz OMG
+*/
+
+@import url('https://maendisease.github.io/Outlook/Outlook.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+
+:root {
+  --home-image: url('https://media.discordapp.net/attachments/939894415235899433/1108987143352766554/IMG_1929.jpg?width=507&height=676');
+  --accent-hue: 279;
+  --accent-saturation: 49%;
+  --accent-brightness: 41%;
+  --gradient-toggle: 1;
+  --gradient-hue-shift: 0.61;
+  --gradient-saturation: 43%;
+  --gradient-deg: 165deg;
+  --customFont: JetBrains Mono;
+}
+
+/* PHGHuy beo  */
